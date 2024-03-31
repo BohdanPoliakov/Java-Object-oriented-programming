@@ -12,6 +12,5 @@ In the generated file, describe:
 - Fill the created array with objects of class Rectangle, the size of the rectangles must be entered from the keyboard. 
 - Calculate the areas and perimeters of all the rectangles using the getArea and getPerimeter methods and output them to the screen (the area must be separated from the perimeter by a space, the information about each of the rectangles must be output on a new line, real numbers must be output with two decimal places).
 # Special requirements for the program:
-- At the beginning of the programme, place a comment containing information about the developer of the programme (student certificate number, name, group number).
 - Input errors may not be handled.
 - Test the program with tests on github.com.
